@@ -24,4 +24,5 @@
 Here are two current projects I am also working alongside during my time at UNC-Wilmington!
 
 1. https://github.com/COAST-Lab/Open-Water-Level
-2. https://github.com/TinyCamML/TinyCamML
+2. https://github.com/COAST-Lab/c3po
+3. https://github.com/TinyCamML/TinyCamML
