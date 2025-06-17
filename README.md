@@ -5,7 +5,7 @@
 
 🔭 Currect Status: I am currently part of the M.S. Marine Science program at UNCW and am advised by [Phil Bresnahan](https://github.com/SUPScientist). Check out our [COAST Lab](https://github.com/COAST-Lab)!
 
-🌟 About Me: I love Jesus and I consider it an honor to serve others through science, soccer, and coffee!
+🌟 About Me: I love Jesus and I consider it an honor to serve others through science, soccer, and coffee! 
     
 
 
