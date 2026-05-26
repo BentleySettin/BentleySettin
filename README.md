@@ -11,13 +11,11 @@
 
 ## 🚀 Current Master's Thesis Work
 
-**Goal**: To close a spatial and knowledge gap withint the Burnt Mill Creek community through the construction and deployment of real-time water level and precipitation sensors accompanied with water quality sensors that measure conductivity and temperature.
+**Goal**: To close a spatial and knowledge gap within the Wilmington community through the construction and deployment of real-time water level and precipitation sensors accompanied with water quality sensors that measure conductivity and temperature.
 
-**About Burnt Mill Creek**: Burnt Mill Creek is an urban watershed located in the city of Wilmington, NC that traverses an underserved community and serves as a vital stormwater resource for ~23,700 people distributed over 4,200 acres. Recent hurricanes, heavy rainfall events, and king tides have led to significant flooding within the Burnt Mill Creek community. Urban areas such as Burnt Mill Creek are at higher risk due to more impervious surfaces (e.g., roadways, infrastructure) that increase runoff and flooding.
+**Synopsis of work**: Improving high-resolution monitoring is critical for understanding retention pond capacities and enhancing coastal resilience strategies. In this research, I developed, deployed, and characterized a novel, low-cost, open-source water level and rainfall sensor. Results from a 5-month deployment depict high correlation (R2 = 0.8022) between our novel rainfall sensor and a commercial tipping bucket. In addition to improvements in monitoring capacity, it is established that education, particularly coastal literacy, is recognized as a key component of coastal resilience. Accordingly, this project also develops the Flood Monitoring and Resiliency Education Program that engages high school students in sensor validation and deployment to investigate flood dynamics in a retention pond and local flood drivers to build knowledge, data literacy skills, 21st century skills, attitudes, and behavioral intentions related to flooding and coastal resilience. Through relevant, experiential, place-based learning, students collected, analyzed, and communicated data that addressed community-relevant flooding challenges. Educational outcomes were evaluated using a retrospective pre/post survey focused on flood knowledge and resiliency. This research provides experiential and place-based learning opportunities that support objectives while establishing a long-term site for monitoring retention pond flood dynamics.  
 
-**Synopsis of work to be done**: I will analyze hydrodynamics using collected datasets from this area, incorporating data from both newly deployed and existing sensors. I will publicly publish all data on the Coastal Ocean Research and Monitoring Program website to inform communities effectively. I will also engage in community events and classroom visits in the Burnt Mill Creek community in order to increase literacy of coastal resiliency in this area.
-
-**Github Project:** https://github.com/BentleySettin/MeterCTD
+**Github Project:** https://github.com/COAST-Lab/Open-Water-Level-and-Rainfall-Sensor
 
 ## 🌟 Other Current Research Projects 
 
